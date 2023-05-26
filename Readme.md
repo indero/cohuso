@@ -19,6 +19,11 @@ To change the listen address (default: :8080):
 go run server.go --http-listen-addr=127.0.0.1:8443
 ```
 
+### Make a request
+```bash
+curl localhost:8080/call.php\?caller=0581346620
+```
+
 ## Docker
 
 ## Contributing
