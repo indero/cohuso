@@ -21,7 +21,15 @@ go run server.go --http-listen-addr=127.0.0.1:8443
 
 ### Make a request
 ```bash
-curl localhost:8080/call.php\?caller=0581346620
+$ curl localhost:8080/call.php\?caller=0581346620
+```
+The response:
+```xml
+<SnomIPPhoneText>
+	<Title>Anruf von 0581346620</Title>
+	<Prompt>Anruf von 0581346620</Prompt>
+	<Text>Schweizer Radio und Fernsehen (SRF)&#xA;    Regionalstudio Zentralschweiz&#xA;    Inseliquai 8&#xA;    6005 Luzern LU&#xA;    *058 134 66 20</Text>
+</SnomIPPhoneText>
 ```
 
 ## Docker
