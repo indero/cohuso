@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/35cda88d174fe5d63f7d80332e0b529d</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2023-05-26T09:04:12+02:00</updated>
+  <link href="https://tel.search.ch/result?was=058136" rel="alternate" type="text/html" />
+  <link href="http://tel.search.ch/api/?was=058136" type="application/atom+xml" rel="self" />
+  <openSearch:totalResults>11</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="058136 " startPage="1"></openSearch:Query>
+  <openSearch:Image height="1" width="1" type="image/gif">https://www.search.ch/audit/CP/tel/de/api</openSearch:Image>
+  <entry>
+    <id>urn:uuid:f3235990c7b26361</id>
+    <updated>2023-04-10T23:44:41+02:00</updated>
+    <published>2023-04-10T23:44:41+02:00</published>
+    <title type="text">Redazione Access Services SWISS TXT SA c/o RSI</title>
+    <content type="text">Redazione Access Services SWISS TXT SA c/o RSI
+    6949 Comano TI
+    058 136 40 61</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/comano/-/redazione-access-services-swiss-txt-sa-c-o-rsi" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Redazione-Access-Services-SWISS-TXT-SA-co-RSI.vcf?key=f3235990c7b26361" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=f3235990c7b26361" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:39253ab0e1b506cf</id>
+    <updated>2023-05-01T22:08:04+02:00</updated>
+    <published>2023-05-01T22:08:04+02:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Retschaviment / Empfang
+    Stadthaus
+    Masanserstrasse 2
+    7000 Chur GR
+    *058 136 30 00</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/chur/masanserstrasse-2/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=39253ab0e1b506cf" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=39253ab0e1b506cf" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:aa117dcd11b50754</id>
+    <updated>2023-01-05T11:47:58+01:00</updated>
+    <published>2023-01-05T11:47:58+01:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Via Centrala 4
+    7130 Ilanz GR
+    *058 136 30 04</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/ilanz/via-centrala-4/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=aa117dcd11b50754" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=aa117dcd11b50754" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:faf4598478077334</id>
+    <updated>2023-05-01T22:07:59+02:00</updated>
+    <published>2023-05-01T22:07:59+02:00</published>
+    <title type="text">SWISS TXT AG /SA</title>
+    <content type="text">SWISS TXT AG /SA
+    C/o SRG SSR
+    Alexander-Schöni-Strasse 40
+    2503 Biel/Bienne BE
+    *058 136 40 00</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/biel-bienne/alexander-schoeni-strasse-40/swiss-txt-ag-sa" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/SWISS-TXT-AG-SA.vcf?key=faf4598478077334" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=faf4598478077334" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:9c84800552ba2346</id>
+    <updated>2023-05-01T22:07:59+02:00</updated>
+    <published>2023-05-01T22:07:59+02:00</published>
+    <title type="text">Studio Bundeshaus</title>
+    <content type="text">Studio Bundeshaus
+    SRG SSR
+    Bundesgasse 8-12
+    3011 Bern BE
+    *058 136 25 25</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/bern/bundesgasse-8-12/studio-bundeshaus" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Studio-Bundeshaus.vcf?key=9c84800552ba2346" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=9c84800552ba2346" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:8fea8ff96266b4b3</id>
+    <updated>2023-05-01T22:07:59+02:00</updated>
+    <published>2023-05-01T22:07:59+02:00</published>
+    <title type="text">Pensionskasse SRG SSR (PKS)</title>
+    <content type="text">Pensionskasse SRG SSR (PKS)
+    Schwarztorstrasse 21
+    3007 Bern BE
+    *058 136 15 15</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/bern/schwarztorstrasse-21/pensionskasse-srg-ssr" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Pensionskasse-SRG-SSR-PKS.vcf?key=8fea8ff96266b4b3" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=8fea8ff96266b4b3" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:a6e5e65ff480f60f</id>
+    <updated>2023-05-01T22:08:06+02:00</updated>
+    <published>2023-05-01T22:08:06+02:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Via Alpsu 8
+    7180 Disentis/Mustér GR
+    *058 136 30 05</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/disentis-muster/via-alpsu-8/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=a6e5e65ff480f60f" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=a6e5e65ff480f60f" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:1ae97d6dab84e7a8</id>
+    <updated>2023-02-15T15:31:17+01:00</updated>
+    <published>2023-02-15T15:31:17+01:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Chesa Suder
+    Cho d'Punt 47
+    7503 Samedan GR
+    *058 136 30 02</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/samedan/cho-dpunt-47/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=1ae97d6dab84e7a8" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=1ae97d6dab84e7a8" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:2b6b96d81b7f8835</id>
+    <updated>2023-02-14T16:40:14+01:00</updated>
+    <published>2023-02-14T16:40:14+01:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Stradung 23
+    7460 Savognin GR
+    *058 136 30 03</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/savognin/stradung-23/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=2b6b96d81b7f8835" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=2b6b96d81b7f8835" rel="edit" type="text/html" />
+  </entry>
+  <entry>
+    <id>urn:uuid:2d4243732c25e72e</id>
+    <updated>2023-01-04T12:25:43+01:00</updated>
+    <published>2023-01-04T12:25:43+01:00</published>
+    <title type="text">RTR Radiotelevisiun Svizra Rumantscha</title>
+    <content type="text">RTR Radiotelevisiun Svizra Rumantscha
+    Center Augustin
+    Stradun 197
+    7550 Scuol GR
+    *058 136 30 01</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/scuol/stradun-197/rtr-radiotelevisiun-svizra-rumantscha" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/RTR-Radiotelevisiun-Svizra-Rumantscha.vcf?key=2d4243732c25e72e" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=2d4243732c25e72e" rel="edit" type="text/html" />
+  </entry>
+</feed>

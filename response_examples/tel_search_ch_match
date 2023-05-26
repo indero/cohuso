@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/0bae6c3832ce8a7511c7a7f34115be6d</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2023-05-26T10:52:15+02:00</updated>
+  <link href="https://tel.search.ch/result?was=0581346620" rel="alternate" type="text/html" />
+  <link href="http://tel.search.ch/api/?was=0581346620" type="application/atom+xml" rel="self" />
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="0581346620 " startPage="1"></openSearch:Query>
+  <openSearch:Image height="1" width="1" type="image/gif">https://www.search.ch/audit/CP/tel/de/api</openSearch:Image>
+  <entry>
+    <id>urn:uuid:0e4e42b8edd8ebf3</id>
+    <updated>2023-04-04T15:33:28+02:00</updated>
+    <published>2023-04-04T15:33:28+02:00</published>
+    <title type="text">Schweizer Radio und Fernsehen (SRF)</title>
+    <content type="text">Schweizer Radio und Fernsehen (SRF)
+    Regionalstudio Zentralschweiz
+    Inseliquai 8
+    6005 Luzern LU
+    *058 134 66 20</content>
+    <tel:nopromo>*</tel:nopromo>
+    <author>
+      <name>tel.search.ch</name>
+    </author>
+    <link href="https://tel.search.ch/luzern/inseliquai-8/schweizer-radio-und-fernsehen" title="Details" rel="alternate" type="text/html" />
+    <link href="https://tel.search.ch/vcard/Schweizer-Radio-und-Fernsehen-SRF.vcf?key=0e4e42b8edd8ebf3" type="text/x-vcard" title="VCard Download" rel="alternate" />
+    <link href="https://tel.search.ch/edit/?id=0e4e42b8edd8ebf3" rel="edit" type="text/html" />
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tel="http://tel.search.ch/api/spec/result/1.0/">
+  <id>https://tel.search.ch/api/5855ddadffcf33d0e2111e5a60fab43a</id>
+  <title type="text">tel.search.ch API Search Results</title>
+  <generator version="1.0" uri="https://tel.search.ch">tel.search.ch</generator>
+  <updated>2023-05-26T10:55:27+02:00</updated>
+  <link href="https://tel.search.ch/result?was=0581346621" rel="alternate" type="text/html" />
+  <link href="http://tel.search.ch/api/?was=0581346621" type="application/atom+xml" rel="self" />
+  <openSearch:totalResults>0</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>10</openSearch:itemsPerPage>
+  <openSearch:Query role="request" searchTerms="0581346621 " startPage="1"></openSearch:Query>
+  <openSearch:Image height="1" width="1" type="image/gif">https://www.search.ch/audit/CP/tel/de/api</openSearch:Image>
+  <openSearch:Query role="correction" searchTerms="058 134 66 2*" totalResults="1"></openSearch:Query>
+</feed>
